@@ -18,3 +18,11 @@ int reversort(vi L){
     // Find the minimum element in the "rest of the array":
     int m = *min_element(L.begin() + i, L.end());
 
+
+    // Find the index of the minimum element found above:
+    auto idx = find(L.begin(), L.end(), m);
+
+    // Execute the reversal:
+    reverse(L.begin() + i, idx + 1);
+
+    // Track the cost:
