@@ -4,11 +4,6 @@
               j = position with min value b/w i and L
               Reverse(L[i....j])
 
-
-               
-
-
-
 #include <bits/stdc++.h>
 #include <stdio.h>
 using namespace std;
