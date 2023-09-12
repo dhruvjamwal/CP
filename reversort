@@ -53,7 +53,7 @@ int main()
           L.push_back(e);
         }
 
-        cout << "Case #" << c << ": " << reversort(L) << endl;
+         cout << "Case #" << c << ": " << reversort(L) << endl;
 
     }
 }
