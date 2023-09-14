@@ -1,6 +1,6 @@
 //To add two numbers in c++
 
-#includde<iostream>
+#include<iostream>
 using namespace std;
 int main()
 {
