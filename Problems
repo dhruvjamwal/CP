@@ -8,7 +8,7 @@ int main()
     cin>>T;
     for(i=0;i<T;i++)
       ( int a,b; cin>>a,b;
-      cout<<a+b
+      cout<<a+b<<endl;
 }
 
 
