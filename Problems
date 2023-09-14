@@ -1,4 +1,4 @@
-//To add two numbers 
+//To add two numbers in c++
 
 #includde<iostream>
 using namespace std;
