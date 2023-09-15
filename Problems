@@ -12,7 +12,7 @@ int main()
       }
 }
 
-// area of rectangle
+// To calculate area of rectangle
 
 #include<bits/stdc++.h>
 using namespace std;
