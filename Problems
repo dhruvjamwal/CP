@@ -34,5 +34,11 @@ int main(){
     
 }
 
+// To remove duplicate characters from the string.
+
+#include <bits/stdc++.h>
+using namespace std;
+ 
+char *removeDuplicate(char str[], int n)
 
 
