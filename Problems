@@ -40,5 +40,7 @@ int main(){
 using namespace std;
 char *tempremover(char str[], int i) 
 
+// To reverse a given string
+
 
 
