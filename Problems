@@ -36,9 +36,6 @@ int main(){
 
 // To remove duplicate characters from the string.
 
-#include <bits/stdc++.h>
-using namespace std;
-char *tempremover(char str[], int i) 
 
 // To reverse a given string
 
