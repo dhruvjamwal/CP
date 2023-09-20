@@ -48,7 +48,7 @@ int main(){
     cout<<str_rev;
 }
 
-// To remove duplicate characters from the string.
+
 
 // To exponent power of a number and find result
 
@@ -98,7 +98,7 @@ cin>>a>>b;
 cout<<sum(a)<<sum(b);
 }
 
-
+// To remove duplicate characters from the string.
 		
 // To find min & max element 
 
