@@ -90,12 +90,13 @@ int sum(int n)
 	sum = sum + n%10;
 n= n/10;
 }
-return sum;}
-int main()
-{
+return sum;
+}
+int main(){
 int a,b;
 cin>>a>>b;
-cout<<sum(a)<<sum(b);}
+cout<<sum(a)<<sum(b);
+}
 
 
 		
