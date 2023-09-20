@@ -78,4 +78,7 @@ x = x*a;
 return x;
 }
 
+// To find min & max element 
+
+
 
