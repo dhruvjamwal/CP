@@ -98,9 +98,14 @@ cin>>a>>b;
 cout<<sum(a)<<sum(b);
 }
 
+// To acccess element of an array using pointer
+
+
+
 // To remove duplicate characters from the string.
 		
 // To find min & max element 
+
 
 
 
