@@ -48,8 +48,6 @@ int main(){
     cout<<str_rev;
 }
 
-
-
 // To exponent power of a number and find result
 
 #include<iostream>
@@ -98,7 +96,19 @@ cin>>a>>b;
 cout<<sum(a)<<sum(b);
 }
 
-// To acccess element of an array using pointer
+// To access element of an array using pointer
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    int arr[10];
+    arr[0] = 7;
+    arr[1] = 2;
+    cout<<"arr:"<<arr;
+    cout<<"&arr[0]:"<<&arr[0]<<endl;
+    cout<<"*arr:"<<*arr<<endl;
+}
 
 
 
