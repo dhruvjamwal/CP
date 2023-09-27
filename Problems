@@ -116,7 +116,7 @@ int main()
 		
 // To find min & max element 
 
-// To calculate the maximum subarray sum
+// To calculate the maximum subarray sum array[2,-4,9,3,-9]
  Algorithm
 int best = 0;
 for (int a = 0; a<n; a++){
@@ -126,7 +126,7 @@ for (int a = 0; a<n; a++){
 	best = max(best,sum);
 }
 }
-	
+cout << best << "\n";	// time complexity of this algorithm is O(n*n)
 	
 	
 	
