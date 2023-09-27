@@ -116,5 +116,21 @@ int main()
 		
 // To find min & max element 
 
+// To calculate the maximum subarray sum
+ Algorithm
+int best = 0;
+for (int a = 0; a<n; a++){
+	sum = 0;
+	for(int i = 0; i<n; i++){
+	sum += array[i];
+	best = max(best,sum);
+}
+}
+	
+	
+	
+	
+
+
 
 
