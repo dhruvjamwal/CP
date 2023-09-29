@@ -1,4 +1,5 @@
-//To add two numbers in c++
+< c++ >
+//To add two numbers 
 
 #include<iostream>
 using namespace std;
@@ -114,6 +115,8 @@ int main()
 // To remove duplicate characters from the string.
 		
 // To find min & max element 
+
+// using inline function
 
 // To calculate the maximum subarray sum array[2,-4,9,3,-9]
  Algorithm
