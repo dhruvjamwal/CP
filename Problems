@@ -116,7 +116,9 @@ int main()
 		
 // To find min & max element 
 
+
 // using inline function
+
 
 #include <iostream>
 using namespace std;
