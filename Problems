@@ -54,7 +54,6 @@ int main(){
 
 #include<iostream>
 using namespace std;
-
 double power(double,int=1);
 int main(){
     int p;
