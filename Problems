@@ -129,7 +129,8 @@ int main(){
 }
 
 // To calculate the maximum subarray sum array[2,-4,9,3,-9]
- Algorithm
+<Algorithm>
+
 int best = 0;
 for (int a = 0; a<n; a++){
 	sum = 0;
@@ -141,7 +142,7 @@ for (int a = 0; a<n; a++){
 cout << best << "\n";	// time complexity of this algorithm is O(n*n)
 
 
-//Friend  class and function
+// Friend  class and function
 
 
 
