@@ -139,7 +139,9 @@ for (int a = 0; a<n; a++){
 }
 }
 cout << best << "\n";	// time complexity of this algorithm is O(n*n)
-Friend  class and function
+
+
+//Friend  class and function
 
 
 
