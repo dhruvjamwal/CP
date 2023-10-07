@@ -143,6 +143,29 @@ cout << best << "\n";	// time complexity of this algorithm is O(n*n)
 
 
 // Friend  class and function
+// stack intializtion
+
+#include <iostream>
+using namespace std;
+class stack{ private:
+    char data_[10]; int top_;
+public:
+    void init() {top_ =-1;}
+    char top() { return data_[top_];}
+    void pop() { --top_;}
+    void push()(char x) {data_[++top_] = x;}
+    int empty() {return (top_ == -1);}
+
+};
+ 
+ int main() {
+     char str[10] = "vurhd";
+     stack s; s.init();
+     for (int i =0; i<5; ++i) s.push(str[i]);
+     while(!s.empty()) { cout << s.top();s.pop();}
+     
+ }
+
 
 
 
