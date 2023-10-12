@@ -117,7 +117,7 @@ int main()
 		
 // To find min & max element 
 //  inline function
-
+// To concatenate two string using operator overloading
 
 #include <iostream>
 using namespace std;
