@@ -118,7 +118,7 @@ int main()
 // To find min & max element 
 //  inline function
 // To concatenate two string using operator overloading
-
+operator + is overloaded to perform concat the two string
 #include <iostream>
 using namespace std;
 inline int SQUARE(int x) {return x * x;}
