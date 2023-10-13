@@ -163,11 +163,13 @@ public:
     char top() { return data_[top_];}
     void pop() { --top_;}
     void push()(char x) {data_[++top_] = x;}
-    int empty() {return (top_ == -1);}
+    int empty() {return (top_ == -1);
+	}
 
-};
+}
  
- int main() {
+ int main() 
+{
      char str[10] = "vurhd";
      stack s; s.init();
      for (int i =0; i<5; ++i) s.push(str[i]);
