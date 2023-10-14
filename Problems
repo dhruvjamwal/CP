@@ -135,7 +135,9 @@ int main(){
     cout<<"square is "<<b;
 }
 
-// To calculate the maximum subarray sum array[2,-4,9,3,-9]
+// To calculate the maximum subarray sum 
+ Given array[2,-4,9,3,-9]
+
 <Algorithm>
 
 int best = 0;
