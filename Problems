@@ -189,7 +189,7 @@ public:
 
 class linkedlist{
 	int item;
-	linkedlist*Next;}
+	linkedlist*Next};
 
 	
 	
