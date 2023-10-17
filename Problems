@@ -185,6 +185,12 @@ public:
 // To show polymorphism
 // To implement STL in c++
 // Error handling
+// To implement linked list
+
+class linkedlist{
+	int item;
+	linkedlist*Next;}
+
 	
 	
 	
