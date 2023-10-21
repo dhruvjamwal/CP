@@ -185,6 +185,7 @@ public:
 // To show polymorphism
 // To implement STL in c++
 // Error handling
+// sorting algorithm
 // To implement linked list
 
 class linkedlist{
