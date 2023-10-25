@@ -187,10 +187,13 @@ public:
 // Error handling
 // sorting algorithm
 // To implement linked list
-
+class node{
+int elem;
+class node*Next;
 class linkedlist{
+	class node*head;
 	int item;
-	linkedlist*Next};
+	class linkedlist};
 
 	
 	
