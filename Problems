@@ -187,7 +187,7 @@ public:
 // Error handling
 // sorting algorithm
 // To implement linked list
-// opieration of stack 
+// opieration on stack & Queue
 class node{
 int elem;
 class node*Next;
