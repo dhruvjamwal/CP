@@ -1,4 +1,4 @@
-< c++ >
+< c++ Solution's>
 
 //To add two numbers 
 
@@ -187,6 +187,7 @@ public:
 // Error handling
 // sorting algorithm
 // To implement linked list
+// opieration of stack 
 class node{
 int elem;
 class node*Next;
