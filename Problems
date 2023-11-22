@@ -208,6 +208,9 @@ int main()
 // To implement linked list
 // Knight Problem
 // opieration on stack & Queue
+   
+
+
 class node{
 int elem;
 class node*Next;
