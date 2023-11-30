@@ -22,7 +22,7 @@ int main(){
     cout<<a * 1LL * b<<endl;
 }
 
-// To iterate each element of string
+//   To iterate each element of string
 
 #include<bits/stdc++.h>
 using namespace std;
