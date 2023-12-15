@@ -199,6 +199,7 @@ int main()
     cout << ans;
 }
 
+{ to be done before 30 december
 // map function
 // To show inheritance 
 // To show polymorphism
@@ -210,7 +211,7 @@ int main()
 // card problem
 // coin_problem
 // permutation problem
-// opieration on stack & Queue
+// opieration on stack & Queue}
    
 
 
