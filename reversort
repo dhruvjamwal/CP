@@ -1,5 +1,5 @@
  //reversort - an algorithm to sort a set of integers in increasing order, based on reverse operation.
- Pseudocode - Reversort(L)
+ Pseudocode -  Reversort(L)
               for i =1 to length(L) - 1
               j = position with min value b/w i and L
               Reverse(L[i....j])
